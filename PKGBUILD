@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
-pkgname=calamares-x-cfg-dev
+pkgname=calamares-xfce-cfg-dev
 _destname1="/etc"
 pkgver=23.04
-pkgrel=4
+pkgrel=5
 pkgdesc="calamares 3.3 Dev Config for XeroCE"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
